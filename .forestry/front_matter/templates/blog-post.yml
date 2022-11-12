@@ -18,3 +18,4 @@ fields:
     display_utc: false
 pages:
 - posts/mon-super-titre.md
+- posts/post-n-2.md

@@ -23,4 +23,5 @@ fields:
   label: Photo mariage
 pages:
 - posts/mon-super-titre.md
+- posts/photo-de-mariage.md
 - posts/post-n-2.md

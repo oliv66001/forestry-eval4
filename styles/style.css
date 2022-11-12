@@ -1,0 +1,79 @@
+.photoP {
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 110px;
+    }
+
+.photoP .text {
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 50%;
+    color: white;
+    width: 70%;
+    }
+
+img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+      }
+
+body{
+    text-align: center;
+    color: white;
+    background-color: black;
+    }
+
+a{
+    display:inline-block;
+    color: rgb(255, 255, 255);
+    }
+
+a.nav-link{
+    margin: 20px;
+    }
+
+svg{
+    color: rgb(255, 255, 255);
+    position: static;
+    margin-top: 40px;
+    margin: 10px;
+}
+
+h1{
+    position: static;
+    font-size: 35px;
+    }
+
+nav{
+    height: 60px;
+    text-align: center;
+    line-height: 20px;
+    }
+    
+footer{
+    height: 50px;
+  }
+
+  /*Tarif et prestation*/
+ th{
+    padding: 16px;
+ }
+
+ .table{
+    border-color: white;
+ }
+
+    /*formulaire de contact*/
+    
+
+  
+
+  
+

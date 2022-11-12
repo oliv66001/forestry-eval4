@@ -16,6 +16,11 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: photo_mariage
+  type: file
+  config:
+    maxSize: 64
+  label: Photo mariage
 pages:
 - posts/mon-super-titre.md
 - posts/post-n-2.md
